@@ -1,5 +1,5 @@
 <script setup>
-import { Dropdown, Option } from '@/components/Dropdown'
+import { Dropdown, Option } from '@/components'
 import { ref } from 'vue'
 
 const value = ref(null)
